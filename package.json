@@ -1,0 +1,22 @@
+{
+    "name": "descargador",
+    "version": "0.1.0",
+    "private": true,
+    "main": "servidor.js",
+    "dependencies": {
+      "concurrently": "^6.0.2",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "ffmpeg-static": "^4.3.0",
+      "ytdl-core": "^4.8.2"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.7"
+    },
+    "scripts": {
+      "start-cliente": "npm start --prefix cliente",
+      "start-servidor": "node servidor.js",
+      "start-servidor:dev": "nodemon servidor.js",
+      "start": "concurrently \"npm run start-servidor:dev\" \"npm run start-cliente\""
+    }
+  }

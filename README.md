@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Youtube-a-Mp3 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed in React JS and CSS, it consists of a youtube video converter to mp3 or mp4.
 
-## Available Scripts
+<a href="https://ibb.co/VjRgscx"><img src="https://i.ibb.co/8KqrHLb/Captura.png" alt="Captura" border="0"></a>
+<a href="https://ibb.co/XL7nJRX"><img src="https://i.ibb.co/B3yhsML/Captura2.png" alt="Captura2" border="0"></a>
 
-In the project directory, you can run:
+## Launching 🚀
 
-### `yarn start`
+Download this project or clone it from Git with the following command:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#git clone https://github.com/recse/Youtube-a-Mp3.git
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Pre-requirements 📋
 
-### `yarn test`
+-A code editor (in my case, I'm using Visual Studio Code).
+-Node.JS installed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installation 🔧
 
-### `yarn build`
+1) Download the project or clone it.
+2) Go into the main folder.
+3) Open a shell (cmd) and use: npm install
+4) Go into "cliente" folder (command: cd cliente), open a shell (cmd) and use: npm install
+5) Back to previous folder (main folder) with cd.. command and use: npm start
+6) Go to: localhost:3000
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How it works? ⚙️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Just introduce an URL from Youtube and click on .mp3 or .mp4 (it depends on which format you want to download).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment 📦
 
-### `yarn eject`
+Use the following command in the main folder to build:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#npm build
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Developed with 🛠️
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editor
+* [Node.Js](https://nodejs.org/es/) - Framework - Server - Backend
+* [React.JS](https://es.reactjs.org/) - Framework - Client - Frontend
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+⌨️ con ❤️ por [Recse](https://github.com/recse) 😊

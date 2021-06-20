@@ -20,37 +20,37 @@ https://frosty-darwin-deb9e9.netlify.app/
 ### Installation 🔧
 
 1) Download the project or clone it with the following command:
-
+```
 #git clone https://github.com/recse/Youtube-a-Mp3.git
-
+```
 2) Go into the main folder:
-
+``````
 #cd Youtube-a-Mp3
-
+```
 3) Use: 
-
+```
 #npm install
-
+```
 5) Go into "cliente" folder:
-
+```
 #cd cliente
-
+```
 6) Use:
-
+```
 #npm install
-
+```
 6) Back to previous folder:
-
+```
 #cd ..
-
+```
 7) Use:
-
+```
 #npm start
-
+```
 8) Open a browser and go to: 
-
+```
 localhost:3000
-
+```
 ## How it works? ⚙️
 
 Just introduce an URL from Youtube and click on .mp3 or .mp4 (it depends on which format you want to download).

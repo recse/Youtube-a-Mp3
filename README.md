@@ -14,6 +14,7 @@ https://frosty-darwin-deb9e9.netlify.app/
 ### Pre-requirements 📋
 
 -A code editor (in my case, I'm using Visual Studio Code).
+
 -Node.JS installed.
 
 ### Installation 🔧

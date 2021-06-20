@@ -49,7 +49,7 @@ https://frosty-darwin-deb9e9.netlify.app/
 ```
 8) Open a browser and go to: 
 ```
-localhost:3000
+http://localhost:3000
 ```
 ## How it works? ⚙️
 

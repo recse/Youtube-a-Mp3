@@ -7,9 +7,9 @@ This project is developed in React JS and CSS, it consists of a youtube video co
 
 ## Launching 🚀
 
-Download this project or clone it from Git with the following command:
+You can see an example of the app here:
 
-#git clone https://github.com/recse/Youtube-a-Mp3.git
+https://frosty-darwin-deb9e9.netlify.app/
 
 ### Pre-requirements 📋
 
@@ -18,12 +18,29 @@ Download this project or clone it from Git with the following command:
 
 ### Installation 🔧
 
-1) Download the project or clone it.
-2) Go into the main folder.
-3) Open a shell (cmd) and use: npm install
-4) Go into "cliente" folder (command: cd cliente), open a shell (cmd) and use: npm install
-5) Back to previous folder (main folder) with cd.. command and use: npm start
-6) Go to: localhost:3000
+1) Download the project or clone it with the following command:
+#git clone https://github.com/recse/Youtube-a-Mp3.git
+
+2) Go into the main folder:
+#cd Youtube-a-Mp3
+
+3) Use: 
+#npm install
+
+5) Go into "cliente" folder:
+#cd cliente
+
+6) Use:
+#npm install
+
+6) Back to previous folder:
+#cd ..
+
+7) Use:
+#npm start
+
+8) Open a browser and go to: 
+localhost:3000
 
 ## How it works? ⚙️
 

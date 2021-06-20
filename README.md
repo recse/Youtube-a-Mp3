@@ -24,18 +24,18 @@ https://frosty-darwin-deb9e9.netlify.app/
 #git clone https://github.com/recse/Youtube-a-Mp3.git
 ```
 2) Go into the main folder:
-``````
+```
 #cd Youtube-a-Mp3
 ```
-3) Use: 
+3) Now you will install all dependencies. Use: 
 ```
 #npm install
 ```
-5) Go into "cliente" folder:
+5) Go into the "cliente" folder:
 ```
 #cd cliente
 ```
-6) Use:
+6) Once again you will install all dependencies. Use:
 ```
 #npm install
 ```
@@ -43,7 +43,7 @@ https://frosty-darwin-deb9e9.netlify.app/
 ```
 #cd ..
 ```
-7) Use:
+7) Finally, let's launch the project. Use:
 ```
 #npm start
 ```
